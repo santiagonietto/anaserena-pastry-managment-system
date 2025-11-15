@@ -1,0 +1,9 @@
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C3_DAL\bin\Debug\C3_DAL.dll
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C3_DAL\bin\Debug\C3_DAL.pdb
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C3_DAL\bin\Debug\C4_ENTIDAD.dll
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C3_DAL\bin\Debug\C4_ENTIDAD.pdb
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C3_DAL\obj\Debug\C3_DAL.csproj.AssemblyReference.cache
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C3_DAL\obj\Debug\C3_DAL.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C3_DAL\obj\Debug\C3_DAL.csproj.Up2Date
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C3_DAL\obj\Debug\C3_DAL.dll
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C3_DAL\obj\Debug\C3_DAL.pdb

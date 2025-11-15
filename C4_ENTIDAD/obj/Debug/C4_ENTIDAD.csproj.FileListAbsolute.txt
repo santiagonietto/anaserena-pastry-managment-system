@@ -1,0 +1,6 @@
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C4_ENTIDAD\bin\Debug\C4_ENTIDAD.dll
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C4_ENTIDAD\bin\Debug\C4_ENTIDAD.pdb
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C4_ENTIDAD\obj\Debug\C4_ENTIDAD.csproj.AssemblyReference.cache
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C4_ENTIDAD\obj\Debug\C4_ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C4_ENTIDAD\obj\Debug\C4_ENTIDAD.dll
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C4_ENTIDAD\obj\Debug\C4_ENTIDAD.pdb

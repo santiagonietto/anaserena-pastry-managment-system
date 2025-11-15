@@ -1,0 +1,11 @@
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C2_BLL\bin\Debug\C2_BLL.dll
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C2_BLL\bin\Debug\C2_BLL.pdb
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C2_BLL\bin\Debug\C3_DAL.dll
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C2_BLL\bin\Debug\C4_ENTIDAD.dll
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C2_BLL\bin\Debug\C3_DAL.pdb
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C2_BLL\bin\Debug\C4_ENTIDAD.pdb
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C2_BLL\obj\Debug\C2_BLL.csproj.AssemblyReference.cache
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C2_BLL\obj\Debug\C2_BLL.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C2_BLL\obj\Debug\C2_BLL.csproj.Up2Date
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C2_BLL\obj\Debug\C2_BLL.dll
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C2_BLL\obj\Debug\C2_BLL.pdb
