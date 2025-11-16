@@ -1,6 +1,10 @@
 <Solution>
-  <Project Path="C1_UI/C1_UI.csproj" />
-  <Project Path="C2_BLL/C2_BLL.csproj" />
-  <Project Path="C3_DAL/C3_DAL.csproj" />
-  <Project Path="C4_ENTIDAD/C4_ENTIDAD.csproj" />
+  <Folder Name="/database/">
+    <File Path="README.md" />
+    <File Path="script_database.sql" />
+  </Folder>
+  <Project Path="C1_UI/C1_UI.csproj" Id="fa3bb20d-0d1f-4971-b7f8-6f41b8dedec2" />
+  <Project Path="C2_BLL/C2_BLL.csproj" Id="9b8abc27-cbf1-4707-b4f6-a13c7d1d0792" />
+  <Project Path="C3_DAL/C3_DAL.csproj" Id="ec716c9a-dd1a-4232-aa3a-1a1e62d0c42f" />
+  <Project Path="C4_ENTIDAD/C4_ENTIDAD.csproj" Id="c79130ca-8db8-4899-bf5d-a7151ab39bb2" />
 </Solution>
