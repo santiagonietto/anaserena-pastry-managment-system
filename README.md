@@ -4,7 +4,7 @@
 
 ### EN SSMS (SQL SERVER MANAGMENT STUDIO):
 1. Abrir SQL Server Managment Studio
-2. Archivo -> Abrir -> Seleccionar 'script_databases.sql'
+2. Archivo -> Abrir -> Abrir Proyecto o Solucion -> Seleccionar 'script_databases.sql'
 3. Presionar F5
 
 ### CONNECTION STRING:
