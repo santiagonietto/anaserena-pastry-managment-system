@@ -49,7 +49,6 @@ body {
     background-color: #e88891;
 }
 
-/* Estilos para el modal */
 .modal-overlay {
     position: fixed;
     top: 0;
@@ -137,7 +136,7 @@ body {
     box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
 }
 
-/* Botón cerrar (X) */
+
 .btn-close {
     background: transparent;
     border: none;
@@ -156,7 +155,6 @@ body {
     color: #000;
 }
 
-/* Botones del modal */
 .modal-footer-custom .btn {
     padding: 8px 20px;
     font-size: 1rem;
@@ -184,7 +182,7 @@ body {
         background-color: #5a6268;
     }
 
-/* Botón Cancelar superior derecho */
+
 .btn-outline-danger {
     background-color: #f8d7da;
     color: #842029;
@@ -199,14 +197,11 @@ body {
     border-color: #ea868f;
 }
 
-/* Estilos de validación */
 .text-danger {
-    color: #dc3545;
-    font-size: 0.875rem;
-    margin-top: 5px;
+    color: #f5576c;
+    background-color: rgba(245, 87, 108, 0.1);
 }
 
-/* Tabla mejorada */
 .table {
     margin-top: 20px;
 }
@@ -226,4 +221,50 @@ body {
     padding: 12px;
     vertical-align: middle;
 }
+
+.action-buttons {
+    display: flex;
+    gap: 8px;
+}
+
+
+.btn-action {
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px; 
+    text-decoration: none;
+    transition: all 0.3s ease;
+    font-size: 14px;
+}
+
+.btn-edit {
+    color: #667eea; 
+    background-color: rgba(102, 126, 234, 0.1); 
+}
+
+    .btn-edit:hover {
+        color: #fff;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(102, 126, 234, 0.3);
+    }
+
+
+.btn-delete {
+    color: #f5576c;
+    background-color: rgba(245, 87, 108, 0.1); /
+}
+
+    .btn-delete:hover {
+        color: #fff;
+        background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(245, 87, 108, 0.3);
+    }
+
+
+
 

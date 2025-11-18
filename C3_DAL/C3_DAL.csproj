@@ -44,7 +44,9 @@
     <Compile Include="Class1.cs" />
     <Compile Include="ClienteDAL.cs" />
     <Compile Include="Conexion.cs" />
+    <Compile Include="DashboardDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UsuariosDAL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\C4_ENTIDAD\C4_ENTIDAD.csproj">
