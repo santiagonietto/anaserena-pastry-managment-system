@@ -122,10 +122,12 @@
     <Content Include="CSS\login.css" />
     <Content Include="CSS\sidebar.css" />
     <Content Include="CSS\usuarios.css" />
+    <Content Include="CSS\ventas.css" />
     <Content Include="DashboardUI.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="LoginUI.aspx" />
+    <Content Include="ProductosUI.aspx" />
     <Content Include="Resources\logo anaserena.png" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -184,6 +186,7 @@
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Site.Master" />
     <Content Include="UsuariosUI.aspx" />
+    <Content Include="VentasUI.aspx" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
@@ -216,6 +219,13 @@
     <Compile Include="LoginUI.aspx.designer.cs">
       <DependentUpon>LoginUI.aspx</DependentUpon>
     </Compile>
+    <Compile Include="ProductosUI.aspx.cs">
+      <DependentUpon>ProductosUI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductosUI.aspx.designer.cs">
+      <DependentUpon>ProductosUI.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
@@ -237,6 +247,13 @@
     </Compile>
     <Compile Include="UsuariosUI.aspx.designer.cs">
       <DependentUpon>UsuariosUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasUI.aspx.cs">
+      <DependentUpon>VentasUI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasUI.aspx.designer.cs">
+      <DependentUpon>VentasUI.aspx</DependentUpon>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>

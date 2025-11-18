@@ -13,9 +13,12 @@
                 <h2>Gestión de Usuarios</h2>
                 <p>Administre los usuarios del sistema</p>
             </div>
-
             <asp:Button ID="btnNuevoUsuario" runat="server" Text="+ Nuevo Usuario" CssClass="btn-primary" OnClick="btnNuevoUsuario_Click" />
         </div>
+
+        <asp:Panel ID="pnlMensaje" runat="server" Visible="false" CssClass="alert">
+            <asp:Label ID="lblMensaje" runat="server"></asp:Label>
+        </asp:Panel>
 
         <asp:Panel ID="pnlFormulario" runat="server" Visible="false" CssClass="form-panel">
             <div class="form-header">

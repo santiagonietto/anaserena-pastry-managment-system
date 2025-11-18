@@ -1,4 +1,5 @@
-﻿using C3_DAL;
+﻿using C2_BLL;
+using C3_DAL;
 using C4_ENTIDAD;
 using System;
 using System.Collections.Generic;
@@ -61,7 +62,7 @@ namespace C2_BLL
 
                 ValidarUsername(usuario.Username);
 
- 
+
                 ValidarPassword(usuario.Password);
 
                 if (ExisteUsername(usuario.Username))

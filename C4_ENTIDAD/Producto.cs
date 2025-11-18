@@ -15,7 +15,7 @@ namespace C4_ENTIDAD
         private decimal precio;
         private string categoria;
         private bool disponible;
-        private bool enStock;
+        private decimal stock;
         private DateTime fechaCreacion;
 
         public int Id { get => id; set => id = value; }
@@ -25,16 +25,19 @@ namespace C4_ENTIDAD
         public decimal Precio { get => precio; set => precio = value; }
         public string Categoria { get => categoria; set => categoria = value; }
         public bool Disponible { get => disponible; set => disponible = value; }
-        public bool EnStock { get => enStock; set => enStock = value; }
+
+        public decimal Stock { get => stock; set => stock = value; }
         public DateTime FechaCreacion { get => fechaCreacion; set => fechaCreacion = value; }
 
         public List<Ingredientes> Ingredientes { get; set; }
+       
+
         public Producto()
         {
             Ingredientes = new List<Ingredientes>();
         }
 
-        public Producto(int id, string codigo, string nombre, string descripcion, decimal precio, string categoria, bool disponible, bool enStock, DateTime fechaCreacion)
+        public Producto(int id, string codigo, string nombre, string descripcion, decimal precio, string categoria, bool disponible, decimal stock, DateTime fechaCreacion) // El constructor debe usar decimal stock
         {
             this.id = id;
             this.codigo = codigo;
@@ -43,7 +46,7 @@ namespace C4_ENTIDAD
             this.precio = precio;
             this.categoria = categoria;
             this.disponible = disponible;
-            this.enStock = enStock;
+            this.stock = stock;
             this.fechaCreacion = fechaCreacion;
         }
 
@@ -72,6 +75,23 @@ namespace C4_ENTIDAD
         public List<Ingredientes> ConocerIngredientes()
         {
             return Ingredientes;
+        }
+
+        public bool TieneStock(int cantidad)
+        {
+            return Stock >= cantidad;
+        }
+
+        public void DescontarStock(int cantidad)
+        {
+            if (TieneStock(cantidad))
+            {
+                Stock -= cantidad;
+            }
+            else
+            {
+                throw new Exception($"Stock insuficiente. Disponible: {Stock}");
+            }
         }
     }
 }

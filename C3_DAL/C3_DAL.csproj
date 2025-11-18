@@ -41,16 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <Compile Include="Conexion.cs" />
-=======
     <Compile Include="Class1.cs" />
     <Compile Include="ClienteDAL.cs" />
     <Compile Include="Conexion.cs" />
     <Compile Include="DashboardDAL.cs" />
->>>>>>> origin
+    <Compile Include="DetalleVentaDAL.cs" />
+    <Compile Include="ProductoDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UsuariosDAL.cs" />
+    <Compile Include="VentaDAL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\C4_ENTIDAD\C4_ENTIDAD.csproj">
