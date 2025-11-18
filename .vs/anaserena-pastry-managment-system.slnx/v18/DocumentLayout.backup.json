@@ -3,8 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|c:\\users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+=======
+      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|c:\\users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\iniciosesionui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\iniciosesionui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|c:\\users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\clientesui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\clientesui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+>>>>>>> Stashed changes
     },
     {
       "AbsoluteMoniker": "D:0:0:{C79130CA-8DB8-4899-BF5D-A7151AB39BB2}|C4_ENTIDAD\\C4_ENTIDAD.csproj|c:\\users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c4_entidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +34,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
+<<<<<<< Updated upstream
           "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
@@ -36,6 +46,84 @@
               "RelativeDocumentMoniker": "C1_UI\\Site.Master",
               "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\Site.Master*",
               "RelativeToolTip": "C1_UI\\Site.Master*",
+=======
+          "DockedWidth": 222,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1217066271:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InicioSesionUI.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\InicioSesionUI.aspx",
+              "RelativeDocumentMoniker": "C1_UI\\InicioSesionUI.aspx",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\InicioSesionUI.aspx",
+              "RelativeToolTip": "C1_UI\\InicioSesionUI.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-18T14:24:50.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\ClienteDAL.cs",
+              "RelativeDocumentMoniker": "C3_DAL\\ClienteDAL.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\ClienteDAL.cs",
+              "RelativeToolTip": "C3_DAL\\ClienteDAL.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAuwN8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:27:02.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesUI.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ClientesUI.aspx",
+              "RelativeDocumentMoniker": "C1_UI\\ClientesUI.aspx",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ClientesUI.aspx",
+              "RelativeToolTip": "C1_UI\\ClientesUI.aspx",
+>>>>>>> Stashed changes
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-11-15T00:30:57.929Z",
@@ -43,12 +131,33 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C4_ENTIDAD\\Class1.cs",
               "RelativeDocumentMoniker": "C4_ENTIDAD\\Class1.cs",
               "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C4_ENTIDAD\\Class1.cs",
               "RelativeToolTip": "C4_ENTIDAD\\Class1.cs",
+=======
+              "DocumentIndex": 6,
+              "Title": "estilos.css",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\CSS\\estilos.css",
+              "RelativeDocumentMoniker": "C1_UI\\CSS\\estilos.css",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\CSS\\estilos.css",
+              "RelativeToolTip": "C1_UI\\CSS\\estilos.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAOUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-18T14:03:49.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\Conexion.cs",
+              "RelativeDocumentMoniker": "C3_DAL\\Conexion.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\Conexion.cs",
+              "RelativeToolTip": "C3_DAL\\Conexion.cs",
+>>>>>>> Stashed changes
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T00:29:48.704Z",
@@ -56,6 +165,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\Class1.cs",
@@ -63,12 +173,22 @@
               "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\Class1.cs",
               "RelativeToolTip": "C3_DAL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
+              "DocumentIndex": 3,
+              "Title": "ClienteBLL.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\ClienteBLL.cs",
+              "RelativeDocumentMoniker": "C2_BLL\\ClienteBLL.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\ClienteBLL.cs",
+              "RelativeToolTip": "C2_BLL\\ClienteBLL.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwGsAAAAzAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T00:29:36.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\Class1.cs",
@@ -76,6 +196,15 @@
               "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\Class1.cs",
               "RelativeToolTip": "C2_BLL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+=======
+              "DocumentIndex": 4,
+              "Title": "ClientesUI.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ClientesUI.aspx.cs",
+              "RelativeDocumentMoniker": "C1_UI\\ClientesUI.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ClientesUI.aspx.cs",
+              "RelativeToolTip": "C1_UI\\ClientesUI.aspx.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAgwJkAAAAzAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T00:29:12.303Z",
               "EditorCaption": ""
