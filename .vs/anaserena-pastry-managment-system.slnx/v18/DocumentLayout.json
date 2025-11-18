@@ -23,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{EC716C9A-DD1A-4232-AA3A-1A1E62D0C42F}|C3_DAL\\C3_DAL.csproj|solutionrelative:c3_dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:c1_ui\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,6 +77,10 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ClienteDAL.cs",
@@ -111,7 +115,7 @@
               "RelativeToolTip": "C1_UI\\CSS\\estilos.css",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAOUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-18T14:01:56.241Z"
+              "WhenOpened": "2025-11-18T14:03:49.623Z"
             },
             {
               "$type": "Document",
