@@ -2,16 +2,24 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+<<<<<<< HEAD
 using System.Data.SqlClient;
 using System.Net;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using C4_ENTIDAD;
+=======
+using System.Threading.Tasks;
+using C4_ENTIDAD;
+using System.Data;
+using System.Data.SqlClient;
+>>>>>>> origin
 
 namespace C3_DAL
 {
     public class Conexion
     {
+<<<<<<< HEAD
         SqlConnection conexion = new SqlConnection();
         SqlCommand comando = new SqlCommand();
 
@@ -167,5 +175,15 @@ namespace C3_DAL
             // Reutiliza el método Leer()
             return Leer();
         }
+=======
+        public string connectionString = "data source=compu; initial catalog=anaserena_pms_db; integrated security=sspi";
+
+        public SqlConnection ObtenerConxeion()
+        {
+            return new SqlConnection(connectionString);
+        }
+
+
+>>>>>>> origin
     }
 }

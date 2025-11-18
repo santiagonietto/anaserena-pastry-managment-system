@@ -42,7 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="ClienteBLL.cs" />
+    <Compile Include="DashboardBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UsuariosBLL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\C3_DAL\C3_DAL.csproj">
