@@ -76,3 +76,5 @@ C:\Users\santi\source\repos\anaserena-pastry-managment-system\C1_UI\obj\Debug\C1
 C:\Users\santi\source\repos\anaserena-pastry-managment-system\C1_UI\obj\Debug\C1_UI.csproj.Up2Date
 C:\Users\santi\source\repos\anaserena-pastry-managment-system\C1_UI\obj\Debug\C1_UI.dll
 C:\Users\santi\source\repos\anaserena-pastry-managment-system\C1_UI\obj\Debug\C1_UI.pdb
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C1_UI\bin\C3_DAL.dll
+C:\Users\santi\source\repos\anaserena-pastry-managment-system\C1_UI\bin\C3_DAL.pdb
