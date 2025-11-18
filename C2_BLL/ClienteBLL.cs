@@ -43,7 +43,52 @@ namespace C2_BLL
             {
                 throw new Exception("Error al registrar el cliente: " + ex.Message);
             }
+
         }
+
+        public List<Cliente> ObtenerTodosLosClientes()
+        {
+            try
+            {
+                return clienteDAL.Leer();
+            } catch (Exception err)
+            {
+                throw new Exception($"Error al obtener la lista de clientes {err.Message}");
+            }
+        }
+
+        public List<Cliente> BuscarClientes(string textoBusqueda)
+        {
+            try
+            {
+                if(string.IsNullOrEmpty(textoBusqueda))
+                {
+                    throw new Exception("Debe ingresar un criterio de busqueda");
+                }
+
+                List<Cliente> resultados = clienteDAL.Buscar(textoBusqueda);
+
+                if(resultados.Count == 0)
+                {
+                    throw new Exception("Error, no se econtrar conincidencias!");
+                }
+
+                return resultados;
+            }catch (Exception err)
+            {
+                throw new Exception($"Error, no se encontrar coincidencias! {err.Message}");
+            }
+        }
+
+
+
+
+
+
+
+
+
+
 
         // CAMPOS DE VALIDACION PRIVADA
 
