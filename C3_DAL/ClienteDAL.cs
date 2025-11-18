@@ -20,7 +20,7 @@ namespace C3_DAL
                 {
                     SqlCommand comando = new SqlCommand();
                     comando.CommandType = System.Data.CommandType.Text;
-                    comando.CommandText = "update Cliente set Activo=0 where IdCliente=@idcliente";
+                    comando.CommandText = "update Cliente set Activo=0 where Id=@idcliente";
                     comando.Parameters.AddWithValue("@idcliente", idCliente);
                     comando.Connection = conn;
 
@@ -46,7 +46,7 @@ namespace C3_DAL
                 {
                     SqlCommand comando = new SqlCommand();
                     comando.CommandType = System.Data.CommandType.Text;
-                    comando.CommandText = "update Cliente set Activo=1 where IdCliente=@idcliente";
+                    comando.CommandText = "update Cliente set Activo=1 where Id=@idcliente";
                     comando.Parameters.AddWithValue("@idcliente", idCliente);
                     comando.Connection = conn;
 
@@ -123,6 +123,7 @@ namespace C3_DAL
                 SqlCommand comando = new SqlCommand();
                 comando.CommandType = System.Data.CommandType.Text;
                 comando.CommandText = "select * from Cliente";
+                comando.Connection = conn;
                 conn.Open();
 
                 SqlDataReader lector = comando.ExecuteReader();
@@ -151,7 +152,8 @@ namespace C3_DAL
             {
                 SqlCommand comando = new SqlCommand();
                 comando.CommandType = System.Data.CommandType.Text;
-                comando.CommandText = "insert into Cliente values (@nombre, @apellido, @telefono, @email, @activo, @fechaingreso)";
+                comando.CommandText = "INSERT INTO Cliente (Nombre, Apellido, Telefono, Email, Activo, FechaIngreso) " +
+                                      "VALUES (@nombre, @apellido, @telefono, @email, @activo, @fechaingreso)";
 
                 comando.Parameters.AddWithValue("@nombre", nuevo.Nombre);
                 comando.Parameters.AddWithValue("@apellido", nuevo.Apellido);
@@ -208,14 +210,17 @@ namespace C3_DAL
             {
                 SqlCommand comando = new SqlCommand();
                 comando.CommandType = System.Data.CommandType.Text;
-                comando.CommandText = "update Cliente set Nombre=@nombre, Apellido=@apellido, Telefono=@telefono, Email=@email, Activo=@activo, FechaIngreso=@fechaingreso where IdCliente=@idcliente";
-                comando.Parameters.AddWithValue("@idcliente", modificado.IdCliente);
+
+                comando.CommandText = "UPDATE Cliente SET Nombre=@nombre, Apellido=@apellido, Telefono=@telefono, Email=@email, Activo=@activo, FechaIngreso=@fechaingreso WHERE Id=@ID";
+
+                comando.Parameters.AddWithValue("@ID", modificado.IdCliente);
                 comando.Parameters.AddWithValue("@nombre", modificado.Nombre);
                 comando.Parameters.AddWithValue("@apellido", modificado.Apellido);
                 comando.Parameters.AddWithValue("@telefono", modificado.Telefono);
                 comando.Parameters.AddWithValue("@email", modificado.Email);
                 comando.Parameters.AddWithValue("@activo", modificado.Activo);
                 comando.Parameters.AddWithValue("@fechaingreso", modificado.FechaIngreso);
+
                 comando.Connection = conn;
                 conn.Open();
                 comando.ExecuteNonQuery();
@@ -230,7 +235,8 @@ namespace C3_DAL
             {
                 SqlCommand comando = new SqlCommand();
                 comando.CommandType = System.Data.CommandType.Text;
-                comando.CommandText = "delete from Cliente where IdCliente=@idcliente";
+
+                comando.CommandText = "DELETE FROM Cliente WHERE Id=@idCliente";
                 comando.Parameters.AddWithValue("@idcliente", idCliente);
                 comando.Connection = conn;
                 conn.Open();
