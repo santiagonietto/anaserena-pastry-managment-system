@@ -80,9 +80,121 @@ namespace C2_BLL
             }
         }
 
+        public List<Domicilio> ObtenerDomicilioCLiente(int idDomicilio)
+        {
+            try
+            {
+                if(idDomicilio <= 0)
+                {
+                    throw new Exception("ID de domicilio invalido!");
+                }
 
+                return clienteDAL.ObtenerDomicilio(idDomicilio);
+            } catch (Exception err)
+            {
+                throw new Exception($"Error al obtener domicilio: {err.Message}");
+            }
+        }
 
+        public bool ModificarCliente(Cliente cliente)
+        {
+            try
+            {
+                if(cliente.IdCliente <= 0)
+                {
+                    throw new Exception("ID de  cliente invalido!");
+                }
 
+                ValidarCamposObligatorios(cliente);
+
+                ValidarFormatoEmail(cliente.Email);
+                ValidarFormatoTelefono(cliente.Telefono);
+
+                if (ExisteClientePorEmailOTelefonoExcluyendo(cliente.Email, cliente.Telefono, cliente.IdCliente))
+                {
+                    throw new Exception("Ya existe un cliente con esa informacion!");
+                }
+
+                clienteDAL.Modificar(cliente);
+                return true;
+            } catch (Exception err)
+            {
+                throw new Exception($"Error al modificar el cliente: {err.Message}");
+            }
+        }
+
+        public bool EliminarCliente(int idCliente)
+        {
+            try
+            {
+                if (idCliente <= 0)
+                {
+                    throw new Exception("ID de cliente inválido.");
+                }
+
+                int cantidadVentas = clienteDAL.ConocerVenta(idCliente);
+                if (cantidadVentas > 0)
+                {
+                    throw new Exception("No se puede eliminar este cliente porque está asociado a registros de venta.");
+                }
+
+                // Eliminar cliente
+                clienteDAL.Eliminar(idCliente);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al eliminar cliente: " + ex.Message);
+            }
+        }
+
+        public bool DesactivarCliente(int idCliente)
+        {
+            try
+            {
+                if (idCliente <= 0)
+                {
+                    throw new Exception("ID de cliente inválido.");
+                }
+
+                bool resultado = clienteDAL.Desactivar(idCliente);
+
+                if (!resultado)
+                {
+                    throw new Exception("No se pudo desactivar el cliente.");
+                }
+
+                return resultado;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al desactivar cliente: " + ex.Message);
+            }
+        }
+
+        public bool ReactivarCliente(int idCliente)
+        {
+            try
+            {
+                if (idCliente <= 0)
+                {
+                    throw new Exception("ID de cliente inválido.");
+                }
+
+                bool resultado = clienteDAL.Reactivar(idCliente);
+
+                if (!resultado)
+                {
+                    throw new Exception("No se pudo reactivar el cliente.");
+                }
+
+                return resultado;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al reactivar cliente: " + ex.Message);
+            }
+        }
 
 
 

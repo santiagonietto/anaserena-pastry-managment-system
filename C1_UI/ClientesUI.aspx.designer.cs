@@ -96,6 +96,15 @@ namespace C1_UI
         protected global::System.Web.UI.WebControls.Panel PanelNuevoCliente;
 
         /// <summary>
+        /// Control lblTituloModal.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblTituloModal;
+
+        /// <summary>
         /// Control btnCerrarModal.
         /// </summary>
         /// <remarks>
@@ -103,6 +112,15 @@ namespace C1_UI
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnCerrarModal;
+
+        /// <summary>
+        /// Control hdnIdCliente.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HiddenField hdnIdCliente;
 
         /// <summary>
         /// Control txtNombre.
