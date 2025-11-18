@@ -128,11 +128,10 @@ namespace C1_UI
         {
             if (!IsPostBack)
             {
-                CargarClientesMock(); // Datos de prueba
+                CargarClientesMock();
             }
         }
 
-        // ✅ DATOS DE PRUEBA (temporal hasta que tengas BLL/DAL)
         private void CargarClientesMock()
         {
             List<Cliente> clientesPrueba = new List<Cliente>
@@ -162,12 +161,10 @@ namespace C1_UI
                     Email = "ana.martinez@email.com"
                 }
             };
-
             ClientesGV.DataSource = clientesPrueba;
             ClientesGV.DataBind();
         }
 
-        // ✅ MÉTODO QUE FALTABA
         protected void ClientesGV_RowCommand(object sender, GridViewCommandEventArgs e)
         {
             try
@@ -191,7 +188,56 @@ namespace C1_UI
 
         protected void NuevoClienteBTN_Click(object sender, EventArgs e)
         {
-            MostrarMensaje("Redirigir a página de Nuevo Cliente");
+            LimpiarFormulario();
+            PanelNuevoCliente.Visible = true;
+            lblMensaje.Visible = false;
+            lblError.Visible = false;
+        }
+
+        protected void btnCerrarModal_Click(object sender, EventArgs e)
+        {
+            PanelNuevoCliente.Visible = false;
+            LimpiarFormulario();
+        }
+
+
+        protected void btnCancelar_Click(object sender, EventArgs e)
+        {
+            PanelNuevoCliente.Visible = false;
+            LimpiarFormulario();
+        }
+
+
+        protected void btnGuardar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+
+                Cliente nuevoCliente = new Cliente
+                {
+                    Nombre = txtNombre.Text.Trim(),
+                    Apellido = txtApellido.Text.Trim(),
+                    Telefono = txtTelefono.Text.Trim(),
+                    Email = txtEmail.Text.Trim()
+                };
+
+                MostrarMensaje($"Cliente {nuevoCliente.Nombre} {nuevoCliente.Apellido} guardado exitosamente");
+
+
+                PanelNuevoCliente.Visible = false;
+                LimpiarFormulario();
+            }
+            catch (Exception ex)
+            {
+                MostrarError("Error al guardar: " + ex.Message);
+            }
+        }
+        private void LimpiarFormulario()
+        {
+            txtNombre.Text = "";
+            txtApellido.Text = "";
+            txtTelefono.Text = "";
+            txtEmail.Text = "";
         }
 
         private void MostrarMensaje(string mensaje)

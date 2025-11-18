@@ -7,12 +7,21 @@
       "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\clientesui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\CSS\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C1_UI\\CSS\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ClientesUI.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C1_UI\\ClientesUI.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|c:\\users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\clientesui.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\clientesui.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|c:\\users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+>>>>>>> feature/us-16-mostrar-cliente
     }
   ],
   "DocumentGroupContainers": [
@@ -22,9 +31,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
+<<<<<<< HEAD
           "SelectedChildIndex": 11,
           "Children": [
             {
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "estilos.css",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\CSS\\estilos.css",
+              "RelativeDocumentMoniker": "C1_UI\\CSS\\estilos.css",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\CSS\\estilos.css",
+              "RelativeToolTip": "C1_UI\\CSS\\estilos.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-18T04:11:20.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesUI.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ClientesUI.aspx",
+              "RelativeDocumentMoniker": "C1_UI\\ClientesUI.aspx",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ClientesUI.aspx",
+              "RelativeToolTip": "C1_UI\\ClientesUI.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-18T03:58:38.798Z",
+              "EditorCaption": ""
+            },
+            {
+>>>>>>> feature/us-16-mostrar-cliente
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
@@ -67,6 +108,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "estilos.css",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\CSS\\estilos.css",
               "RelativeDocumentMoniker": "C1_UI\\CSS\\estilos.css",
@@ -102,6 +144,19 @@
               "WhenOpened": "2025-11-18T03:28:27.568Z"
             },
             {
+=======
+              "Title": "ClientesUI.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ClientesUI.aspx.cs",
+              "RelativeDocumentMoniker": "C1_UI\\ClientesUI.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ClientesUI.aspx.cs",
+              "RelativeToolTip": "C1_UI\\ClientesUI.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:28:27.568Z",
+              "EditorCaption": ""
+            },
+            {
+>>>>>>> feature/us-16-mostrar-cliente
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }

@@ -5,6 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>Gestión de Clientes</title>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" rel="stylesheet" />
     <link href="~/CSS/estilos.css" rel="stylesheet" />
@@ -34,10 +35,16 @@
         }
     </style>
 >>>>>>> origin
+=======
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <link href="~/CSS/estilos.css" rel="stylesheet" />
+>>>>>>> feature/us-16-mostrar-cliente
 </head>
 <body>
     <form id="form1" runat="server">
         <div class="container-custom">
+<<<<<<< HEAD
 <<<<<<< HEAD
             <!-- Encabezado -->
             <div class="mb-4">
@@ -63,53 +70,41 @@
                         <Columns>
 =======
 
+=======
+            <!-- Encabezado -->
+>>>>>>> feature/us-16-mostrar-cliente
             <div class="mb-4">
-                <asp:Label ID="GestionClientesLBL" runat="server" 
-                           Text="Gestión de Clientes" 
-                           CssClass="h2 d-block mb-2"></asp:Label>
-                <asp:Label ID="AdministrarClienteLBL" runat="server" 
-                           Text="Administre los clientes del sistema" 
-                           CssClass="text-muted"></asp:Label>
+                <asp:Label ID="GestionClientesLBL" runat="server" Text="Gestión de Clientes" CssClass="h2 d-block mb-2" />
+                <asp:Label ID="AdministrarClienteLBL" runat="server" Text="Administre los clientes del sistema" CssClass="text-muted" />
             </div>
 
+            <!-- Botón Nuevo -->
+            <asp:Button ID="NuevoClienteBTN" runat="server" Text="+ Nuevo Cliente" CssClass="btn btn-primary mb-3" OnClick="NuevoClienteBTN_Click" />
 
-            <div class="mb-3">
-                <asp:Button ID="NuevoClienteBTN" runat="server" 
-                            Text="+ Nuevo Cliente" 
-                            CssClass="btn btn-primary" 
-                            OnClick="NuevoClienteBTN_Click" />
-            </div>
+            <!-- Mensajes -->
+            <asp:Label ID="lblMensaje" runat="server" CssClass="alert alert-success d-block" Visible="false" />
+            <asp:Label ID="lblError" runat="server" CssClass="alert alert-danger d-block" Visible="false" />
 
-
-            <asp:Label ID="lblMensaje" runat="server" 
-                       CssClass="alert alert-success d-block" 
-                       Visible="false"></asp:Label>
-            <asp:Label ID="lblError" runat="server" 
-                       CssClass="alert alert-danger d-block" 
-                       Visible="false"></asp:Label>
-
-
+            <!-- GridView -->
             <div class="card">
                 <div class="card-header bg-light">
-                    <asp:Label ID="ListaClientesLBL" runat="server" 
-                               Text="Lista de Clientes" 
-                               CssClass="h5 mb-0"></asp:Label>
+                    <asp:Label ID="ListaClientesLBL" runat="server" Text="Lista de Clientes" CssClass="h5 mb-0" />
                 </div>
                 <div class="card-body">
-
-                    <asp:GridView ID="ClientesGV" runat="server" 
-                                  CssClass="table table-striped table-hover" 
-                                  AutoGenerateColumns="False" 
-                                  OnRowCommand="ClientesGV_RowCommand"
-                                  DataKeyNames="IdCliente">
+                    <asp:GridView ID="ClientesGV" runat="server" CssClass="table table-striped table-hover" 
+                                  AutoGenerateColumns="False" OnRowCommand="ClientesGV_RowCommand" DataKeyNames="IdCliente">
                         <Columns>
+<<<<<<< HEAD
 
 >>>>>>> origin
+=======
+>>>>>>> feature/us-16-mostrar-cliente
                             <asp:BoundField DataField="IdCliente" HeaderText="ID" />
                             <asp:BoundField DataField="Nombre" HeaderText="Nombre" />
                             <asp:BoundField DataField="Apellido" HeaderText="Apellido" />
                             <asp:BoundField DataField="Telefono" HeaderText="Teléfono" />
                             <asp:BoundField DataField="Email" HeaderText="Email" />
+<<<<<<< HEAD
 <<<<<<< HEAD
                             <asp:TemplateField HeaderText="Acciones">
                                 <ItemTemplate>
@@ -122,15 +117,15 @@
 =======
                             
 
+=======
+>>>>>>> feature/us-16-mostrar-cliente
                             <asp:TemplateField HeaderText="Acciones">
                                 <ItemTemplate>
-                                    <asp:LinkButton ID="btnEditar" runat="server" 
-                                                    CommandName="Editar" 
-                                                    CommandArgument='<%# Eval("IdCliente") %>'
-                                                    CssClass="btn btn-sm btn-warning btn-accion"
-                                                    ToolTip="Editar cliente">
+                                    <asp:LinkButton ID="btnEditar" runat="server" CommandName="Editar" 
+                                                    CommandArgument='<%# Eval("IdCliente") %>' CssClass="btn btn-sm btn-warning btn-accion">
                                         <i class="bi bi-pencil-square"></i> Editar
                                     </asp:LinkButton>
+<<<<<<< HEAD
                                     
                                     <asp:LinkButton ID="btnEliminar" runat="server" 
                                                     CommandName="Eliminar" 
@@ -138,12 +133,17 @@
                                                     CssClass="btn btn-sm btn-danger btn-accion"
                                                     ToolTip="Eliminar cliente"
 >>>>>>> origin
+=======
+                                    <asp:LinkButton ID="btnEliminar" runat="server" CommandName="Eliminar" 
+                                                    CommandArgument='<%# Eval("IdCliente") %>' CssClass="btn btn-sm btn-danger btn-accion"
+>>>>>>> feature/us-16-mostrar-cliente
                                                     OnClientClick="return confirm('¿Está seguro de eliminar este cliente?');">
                                         <i class="bi bi-trash"></i> Eliminar
                                     </asp:LinkButton>
                                 </ItemTemplate>
                             </asp:TemplateField>
                         </Columns>
+<<<<<<< HEAD
 <<<<<<< HEAD
                         <EmptyDataTemplate>
                             <div class="alert alert-info">No hay clientes registrados.</div>
@@ -154,12 +154,19 @@
                                 No hay clientes registrados. Haga clic en "Nuevo Cliente" para agregar uno.
                             </div>
 >>>>>>> origin
+=======
+                        <EmptyDataTemplate>
+                            <div class="alert alert-info">No hay clientes registrados.</div>
+>>>>>>> feature/us-16-mostrar-cliente
                         </EmptyDataTemplate>
                     </asp:GridView>
                 </div>
             </div>
         </div>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature/us-16-mostrar-cliente
 
         <!-- Modal Nuevo Cliente -->
         <asp:Panel ID="PanelNuevoCliente" runat="server" Visible="false" CssClass="modal-overlay">
