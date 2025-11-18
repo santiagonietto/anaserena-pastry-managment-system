@@ -203,7 +203,6 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="ClientesUI.aspx.cs">
       <DependentUpon>ClientesUI.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="ClientesUI.aspx.designer.cs">
       <DependentUpon>ClientesUI.aspx</DependentUpon>
