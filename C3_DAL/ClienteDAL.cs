@@ -8,7 +8,7 @@ using C4_ENTIDAD;
 
 namespace C3_DAL
 {
-    internal class ClienteDAL
+    public class ClienteDAL
     {
         public Conexion conexion = new Conexion();
 
@@ -154,11 +154,11 @@ namespace C3_DAL
                 comando.CommandText = "insert into Cliente values (@nombre, @apellido, @telefono, @email, @activo, @fechaingreso)";
 
                 comando.Parameters.AddWithValue("@nombre", nuevo.Nombre);
-                comando.Parameters.AddWithValue("@", nuevo.Apellido);
-                comando.Parameters.AddWithValue("@", nuevo.Telefono);
-                comando.Parameters.AddWithValue("@", nuevo.Email);
-                comando.Parameters.AddWithValue("@", nuevo.Activo);
-                comando.Parameters.AddWithValue("@", nuevo.FechaIngreso);
+                comando.Parameters.AddWithValue("@apellido", nuevo.Apellido);
+                comando.Parameters.AddWithValue("@telefono", nuevo.Telefono);
+                comando.Parameters.AddWithValue("@email", nuevo.Email);
+                comando.Parameters.AddWithValue("@activo", nuevo.Activo);
+                comando.Parameters.AddWithValue("@fechaingreso", nuevo.FechaIngreso);
 
                 comando.Connection = conn;
                 conn.Open();

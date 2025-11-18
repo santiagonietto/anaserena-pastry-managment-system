@@ -24,6 +24,8 @@ namespace C4_ENTIDAD
         public bool Activo { get => _activo; set => _activo = value; }
         public DateTime FechaIngreso { get => _fechaIngreso; set => _fechaIngreso = value; }
 
+        public Domicilio Domicilio { get; set; }
+
         public Cliente()
         {
         }
