@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\LoginUI.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:C1_UI\\LoginUI.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\ventasui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\ventasui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|c:\\users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\ventasui.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\ventasui.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\DashboardUI.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:C1_UI\\DashboardUI.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\LoginUI.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:C1_UI\\LoginUI.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\loginui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\loginui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8ABC27-CBF1-4707-B4F6-A13C7D1D0792}|C2_BLL\\C2_BLL.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\UsuariosBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8ABC27-CBF1-4707-B4F6-A13C7D1D0792}|C2_BLL\\C2_BLL.csproj|solutionrelative:C2_BLL\\UsuariosBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\clientesui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\clientesui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\UsuariosUI.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:C1_UI\\UsuariosUI.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|c:\\users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\Site.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:C1_UI\\Site.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\UsuariosUI.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:C1_UI\\UsuariosUI.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\productosui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\productosui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\DashboardUI.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:C1_UI\\DashboardUI.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\ventasui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\ventasui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\ventasui.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\ventasui.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\UsuariosUI.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\css\\ventas.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\css\\ventas.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\productosui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\productosui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B8ABC27-CBF1-4707-B4F6-A13C7D1D0792}|C2_BLL\\C2_BLL.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c2_bll\\ventabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,14 +115,6 @@
       "RelativeMoniker": "D:0:0:{EC716C9A-DD1A-4232-AA3A-1A1E62D0C42F}|C3_DAL\\C3_DAL.csproj|solutionrelative:C3_DAL\\ClienteDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\clientesui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\clientesui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B8ABC27-CBF1-4707-B4F6-A13C7D1D0792}|C2_BLL\\C2_BLL.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\UsuariosBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B8ABC27-CBF1-4707-B4F6-A13C7D1D0792}|C2_BLL\\C2_BLL.csproj|solutionrelative:C2_BLL\\UsuariosBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\c1_ui\\css\\usuarios.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:c1_ui\\css\\usuarios.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -121,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9B8ABC27-CBF1-4707-B4F6-A13C7D1D0792}|C2_BLL\\C2_BLL.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\ClienteBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B8ABC27-CBF1-4707-B4F6-A13C7D1D0792}|C2_BLL\\C2_BLL.csproj|solutionrelative:C2_BLL\\ClienteBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\Site.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{FA3BB20D-0D1F-4971-B7F8-6F41B8DEDEC2}|C1_UI\\C1_UI.csproj|solutionrelative:C1_UI\\Site.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B8ABC27-CBF1-4707-B4F6-A13C7D1D0792}|C2_BLL\\C2_BLL.csproj|C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\DashboardBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -150,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 97,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -163,19 +163,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VentasUI.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\VentasUI.aspx.cs",
-              "RelativeDocumentMoniker": "C1_UI\\VentasUI.aspx.cs",
-              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\VentasUI.aspx.cs",
-              "RelativeToolTip": "C1_UI\\VentasUI.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:29:01.351Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -204,23 +191,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VentasUI.aspx",
-              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\VentasUI.aspx",
-              "RelativeDocumentMoniker": "C1_UI\\VentasUI.aspx",
-              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\VentasUI.aspx",
-              "RelativeToolTip": "C1_UI\\VentasUI.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-11-18T19:27:23.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "LoginUI.aspx",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\LoginUI.aspx",
               "RelativeDocumentMoniker": "C1_UI\\LoginUI.aspx",
@@ -233,56 +203,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginUI.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\LoginUI.aspx.cs",
-              "RelativeDocumentMoniker": "C1_UI\\LoginUI.aspx.cs",
-              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\LoginUI.aspx.cs",
-              "RelativeToolTip": "C1_UI\\LoginUI.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UsuariosBLL.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\UsuariosBLL.cs",
+              "RelativeDocumentMoniker": "C2_BLL\\UsuariosBLL.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\UsuariosBLL.cs",
+              "RelativeToolTip": "C2_BLL\\UsuariosBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T15:13:16.125Z",
+              "WhenOpened": "2025-11-18T15:11:17.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DashboardUI.aspx",
-              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\DashboardUI.aspx",
-              "RelativeDocumentMoniker": "C1_UI\\DashboardUI.aspx",
-              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\DashboardUI.aspx",
-              "RelativeToolTip": "C1_UI\\DashboardUI.aspx",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\Site.Master",
+              "RelativeDocumentMoniker": "C1_UI\\Site.Master",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\Site.Master",
+              "RelativeToolTip": "C1_UI\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-11-18T15:25:14.161Z",
+              "WhenOpened": "2025-11-18T16:01:02.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "script_database.sql",
-              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\script_database.sql",
-              "RelativeDocumentMoniker": "script_database.sql",
-              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\script_database.sql",
-              "RelativeToolTip": "script_database.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-11-18T17:12:31.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsuariosUI.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\UsuariosUI.aspx.cs",
-              "RelativeDocumentMoniker": "C1_UI\\UsuariosUI.aspx.cs",
-              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\UsuariosUI.aspx.cs",
-              "RelativeToolTip": "C1_UI\\UsuariosUI.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T17:22:48.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ventas.css",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\CSS\\ventas.css",
               "RelativeDocumentMoniker": "C1_UI\\CSS\\ventas.css",
@@ -294,19 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "VentaBLL.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\VentaBLL.cs",
-              "RelativeDocumentMoniker": "C2_BLL\\VentaBLL.cs",
-              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\VentaBLL.cs",
-              "RelativeToolTip": "C2_BLL\\VentaBLL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:22:28.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C4_ENTIDAD\\Venta.cs",
               "RelativeDocumentMoniker": "C4_ENTIDAD\\Venta.cs",
@@ -318,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "VentaDAL.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\VentaDAL.cs",
               "RelativeDocumentMoniker": "C3_DAL\\VentaDAL.cs",
@@ -330,7 +265,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
+              "Title": "UsuariosUI.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\UsuariosUI.aspx.cs",
+              "RelativeDocumentMoniker": "C1_UI\\UsuariosUI.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\UsuariosUI.aspx.cs",
+              "RelativeToolTip": "C1_UI\\UsuariosUI.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:22:48.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProductosUI.aspx",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ProductosUI.aspx",
               "RelativeDocumentMoniker": "C1_UI\\ProductosUI.aspx",
@@ -342,7 +289,120 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesUI.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ClientesUI.aspx",
+              "RelativeDocumentMoniker": "C1_UI\\ClientesUI.aspx",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ClientesUI.aspx",
+              "RelativeToolTip": "C1_UI\\ClientesUI.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-18T18:40:29.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "script_database.sql",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\script_database.sql",
+              "RelativeDocumentMoniker": "script_database.sql",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\script_database.sql",
+              "RelativeToolTip": "script_database.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-18T17:12:31.45Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\Site.Master.cs",
+              "RelativeDocumentMoniker": "C1_UI\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\Site.Master.cs",
+              "RelativeToolTip": "C1_UI\\Site.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:02:28.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosUI.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\UsuariosUI.aspx",
+              "RelativeDocumentMoniker": "C1_UI\\UsuariosUI.aspx",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\UsuariosUI.aspx",
+              "RelativeToolTip": "C1_UI\\UsuariosUI.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-18T17:17:09.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginUI.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\LoginUI.aspx.cs",
+              "RelativeDocumentMoniker": "C1_UI\\LoginUI.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\LoginUI.aspx.cs",
+              "RelativeToolTip": "C1_UI\\LoginUI.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:13:16.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "VentaBLL.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\VentaBLL.cs",
+              "RelativeDocumentMoniker": "C2_BLL\\VentaBLL.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\VentaBLL.cs",
+              "RelativeToolTip": "C2_BLL\\VentaBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:22:28.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardUI.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\DashboardUI.aspx",
+              "RelativeDocumentMoniker": "C1_UI\\DashboardUI.aspx",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\DashboardUI.aspx",
+              "RelativeToolTip": "C1_UI\\DashboardUI.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-18T15:25:14.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VentasUI.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\VentasUI.aspx.cs",
+              "RelativeDocumentMoniker": "C1_UI\\VentasUI.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\VentasUI.aspx.cs",
+              "RelativeToolTip": "C1_UI\\VentasUI.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:29:01.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VentasUI.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\VentasUI.aspx",
+              "RelativeDocumentMoniker": "C1_UI\\VentasUI.aspx",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\VentasUI.aspx",
+              "RelativeToolTip": "C1_UI\\VentasUI.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-18T19:27:23.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ProductoDAL.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\ProductoDAL.cs",
               "RelativeDocumentMoniker": "C3_DAL\\ProductoDAL.cs",
@@ -354,32 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Site.Master.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\Site.Master.cs",
-              "RelativeDocumentMoniker": "C1_UI\\Site.Master.cs",
-              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\Site.Master.cs",
-              "RelativeToolTip": "C1_UI\\Site.Master.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T16:02:28.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuariosUI.aspx",
-              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\UsuariosUI.aspx",
-              "RelativeDocumentMoniker": "C1_UI\\UsuariosUI.aspx",
-              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\UsuariosUI.aspx",
-              "RelativeToolTip": "C1_UI\\UsuariosUI.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-11-18T17:17:09.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C4_ENTIDAD\\Producto.cs",
               "RelativeDocumentMoniker": "C4_ENTIDAD\\Producto.cs",
@@ -391,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ProductoBLL.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\ProductoBLL.cs",
               "RelativeDocumentMoniker": "C2_BLL\\ProductoBLL.cs",
@@ -403,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "DetalleVentaDAL.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\DetalleVentaDAL.cs",
               "RelativeDocumentMoniker": "C3_DAL\\DetalleVentaDAL.cs",
@@ -415,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "DetalleVenta.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C4_ENTIDAD\\DetalleVenta.cs",
               "RelativeDocumentMoniker": "C4_ENTIDAD\\DetalleVenta.cs",
@@ -427,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "ProductosUI.aspx.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ProductosUI.aspx.cs",
               "RelativeDocumentMoniker": "C1_UI\\ProductosUI.aspx.cs",
@@ -439,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\Class1.cs",
               "RelativeDocumentMoniker": "C3_DAL\\Class1.cs",
@@ -451,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\Conexion.cs",
               "RelativeDocumentMoniker": "C3_DAL\\Conexion.cs",
@@ -463,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "ClienteDAL.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\ClienteDAL.cs",
               "RelativeDocumentMoniker": "C3_DAL\\ClienteDAL.cs",
@@ -475,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "UsuariosDAL.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\UsuariosDAL.cs",
               "RelativeDocumentMoniker": "C3_DAL\\UsuariosDAL.cs",
@@ -487,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "DashboardDAL.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C3_DAL\\DashboardDAL.cs",
               "RelativeDocumentMoniker": "C3_DAL\\DashboardDAL.cs",
@@ -499,19 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ClientesUI.aspx",
-              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ClientesUI.aspx",
-              "RelativeDocumentMoniker": "C1_UI\\ClientesUI.aspx",
-              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\ClientesUI.aspx",
-              "RelativeToolTip": "C1_UI\\ClientesUI.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-11-18T18:40:29.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "usuarios.css",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\CSS\\usuarios.css",
               "RelativeDocumentMoniker": "C1_UI\\CSS\\usuarios.css",
@@ -523,19 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UsuariosBLL.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\UsuariosBLL.cs",
-              "RelativeDocumentMoniker": "C2_BLL\\UsuariosBLL.cs",
-              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\UsuariosBLL.cs",
-              "RelativeToolTip": "C2_BLL\\UsuariosBLL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T15:11:17.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "estilos.css",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\CSS\\estilos.css",
               "RelativeDocumentMoniker": "C1_UI\\CSS\\estilos.css",
@@ -547,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "ClienteBLL.cs",
               "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C2_BLL\\ClienteBLL.cs",
               "RelativeDocumentMoniker": "C2_BLL\\ClienteBLL.cs",
@@ -556,19 +567,6 @@
               "ViewState": "AgIAADsAAAAAAAAAAAAwwGsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T00:52:13.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\Site.Master",
-              "RelativeDocumentMoniker": "C1_UI\\Site.Master",
-              "ToolTip": "C:\\Users\\santi\\source\\repos\\anaserena-pastry-managment-system\\C1_UI\\Site.Master",
-              "RelativeToolTip": "C1_UI\\Site.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-11-18T16:01:02.61Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",

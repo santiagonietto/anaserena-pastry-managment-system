@@ -59,7 +59,7 @@ namespace C1_UI
                     }
                     else
                     {
-                        Response.Redirect("Ventas.aspx"); 
+                        Response.Redirect("VentasUI.aspx"); 
                     }
                 }
             }
