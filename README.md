@@ -21,6 +21,8 @@ Sistema de gestion para pasteleria AnaSerena enfocado en el seiguimiento de vent
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 
+Proyecto desarrollado en equipo bajo metodología ágil, con contribuciones tanto en desarrollo, documentación, arquitectura y testing.
+
 ## Contexto Academico
 
 - **Institucion Educativa**: Quality I.S.A.D
@@ -36,7 +38,6 @@ Sistema de gestion para pasteleria AnaSerena enfocado en el seiguimiento de vent
 - Gestion de ventas y detalle de ventas
 - Gestion de usuarios registrados (Administrador / Empleado)
 - Gestion y control de stock de productos
-
 
 ## Stack de tecnologías utilizadas
 
@@ -143,7 +144,7 @@ Abrir SQL Server Managment Studio -> Conectar instancia de SQL Server -> Navegar
  
 Desde visual studio compilar el proyecto con Cntrl + F5 -> Interactuar con el programa en la carga de datos.
     
-## Demo - Funcionalidades Destacadas
+## Demo - Funcionalidades Destacadas, vista previa del sistema
 
 ### GESTION DE PRODUCTOS
 <img width="2541" height="1274" alt="pasteleria" src="https://github.com/user-attachments/assets/0b000a97-7348-4609-8f56-ac58111c17f3" />
@@ -153,7 +154,7 @@ Desde visual studio compilar el proyecto con Cntrl + F5 -> Interactuar con el pr
 
 
 ## Metodologias de Desarrollo
-El proyecto se llevo a cabo con el seguimiento de metodologias agiles, en este caso se usaron SCRUM y KANBAN.
+El proyecto se llevo a cabo con el seguimiento de metodologias agiles, en este caso se usaron SCRUM y KANBAN aplicadas por el equipo completo.
 ### SCRUM
 *Se implementaron las siguientes ceremonias para llevar seguimiento del trabajo realizado*
 
@@ -174,11 +175,11 @@ El proyecto se llevo a cabo con el seguimiento de metodologias agiles, en este c
 ### Autores del proyecto 
 | Nombre           |       Rol                   | Responsabilidades                                                                                     |
 | -------------    | ----------------------------|-------------------------------------------------------------------------------------------------------|
-| Joel Galera      | Product Owner               |Gestion del Product Backlog, documentacion, validacion de requerimientos|
-| Santiago Nietto  | Desarrollador Principal     |Diseño de interfaces y base de datos, logica de negocio, capa de acceso de datos, integracion, pruebas funcionales, documentacion tecnica                   |
+| Joel Galera      | Product Owner               |Gestion del Product Backlog, documentacion funcional, validacion de requerimientos, desarrollo de la logica de negocio para el modulo de productos.|
+| Santiago Nietto  | Desarrollador Principal     |Diseño de interfaces y base de datos, logica de negocio, capa de acceso de datos, integracion, pruebas funcionales, documentacion tecnica.|
 
 ### Agradecimientos
-- *Encode* - Benefactor de la carrera.
+- *Encode S.A.* - Benefactor de la carrera.
 - *Quality I.S.A.D* - Institucion educativa.
 - *Profesora Karina Salto* - Programacion II.
 - *Profesor Fermin Stura* - Modelado y Arquitectura de Software.
