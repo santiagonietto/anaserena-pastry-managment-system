@@ -152,6 +152,38 @@ Desde visual studio compilar el proyecto con Cntrl + F5 -> Interactuar con el pr
 <img width="2545" height="1271" alt="Screenshot_1" src="https://github.com/user-attachments/assets/11f8f52f-0531-44dc-985b-1811e185f525" />
 
 
+## Metodologias de Desarrollo
+El proyecto se llevo a cabo con el seguimiento de metodologias agiles, en este caso se usaron SCRUM y KANBAN.
+### SCRUM
+*Se implementaron las siguientes ceremonias para llevar seguimiento del trabajo realizado*
+
+- **Sprint Planning**: Definicion de los objetivos y tareas a llevar a cabo en el sprint.
+- **Daily Standup**: Reuniones diaras para charlar sobre lo que se hizo ayer, lo que se esta llevando a cabo y que inpedimentos se encontraron.
+- **Sprint Review**: Demostracion de las funcionanlidades completadas en el sprint.
+- **Sprint Retrospective**: Analisis de mejoras para el siguiente sprint.
+
+### KANBAN
+*Se implemento la metodologia para llevar a cabo las tareas diarias con la ayuda visual de un tablero*
+
+- **Tablero Visual**: Organizacion de tareas en columnas (To Do -> Doing -> Done)
+- **Seguimiento Continuo**: Monitoreo diario del avance de tareas y deteccion temprana de impedimentos.
+- **Priorizacion Dinamica**: Ajuste de prioridades segun las necesidades del proyecto.
+
+## Autores y Agradecimientos
+
+### Autores del proyecto 
+| Nombre           |       Rol                   | Responsabilidades                                                                                     |
+| -------------    | ----------------------------|-------------------------------------------------------------------------------------------------------|
+| Joel Galera      | Product Owner               |Gestion del Product Backlog, documentacion, validacion de requerimientos, comunicacion con stakeholders|
+| Santiago Nietto  | Desarrollador Principal     |Diseño de interfaces y base de datos, logica de negocio, capa de acceso de datos, integracion, pruebas funcionales, documentacion tecnica                   |
+
+### Agradecimientos
+- *Encode* - Benefactor de la carrera.
+- *Quality I.S.A.D* - Institucion educativa.
+- *Profesora Karina Salto* - Programacion II.
+- *Profesor Fermin Stura* - Modelado y Arquitectura de Software.
+
+
 # CORRECTA INSTALACION DE LA BASE DE DATOS
 
 ## INSTALACION
