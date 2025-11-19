@@ -174,7 +174,7 @@ El proyecto se llevo a cabo con el seguimiento de metodologias agiles, en este c
 ### Autores del proyecto 
 | Nombre           |       Rol                   | Responsabilidades                                                                                     |
 | -------------    | ----------------------------|-------------------------------------------------------------------------------------------------------|
-| Joel Galera      | Product Owner               |Gestion del Product Backlog, documentacion, validacion de requerimientos, comunicacion con stakeholders|
+| Joel Galera      | Product Owner               |Gestion del Product Backlog, documentacion, validacion de requerimientos|
 | Santiago Nietto  | Desarrollador Principal     |Diseño de interfaces y base de datos, logica de negocio, capa de acceso de datos, integracion, pruebas funcionales, documentacion tecnica                   |
 
 ### Agradecimientos
